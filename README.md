@@ -29,3 +29,61 @@ Open the Linux terminal and enter this code
  step2:>wine epass
  step3:>sudo chmod +x epass
  step4:>./epass
+ 
+ # Using epass
+ Use various passwords using switches
+ 
+ # Preview
+ 
+_________   _______   _________    ____         _____________    _____________  __________
+___________| ______| |_ _____  |  / /\ \       |  _________  | |  _________  |   ________
+_________  | |       | |     | | / /  \ \      | |         |_| | |         |_|   ________
+_______    | |       | |     | |/ /    \ \     | |             | |                 ______
+_______    | |_____  | |_____| / /      \ \    | |___________  | |___________      ______
+_________  |  _____| | |______/ /________\ \   |____________ | |____________ |   ___ ____
+___________| |       | |     / /__________\ \              | |             | | _ ________
+_______    | |       | |    / /            \ \  _          | |  _          | |    _______
+ ______    | |_____  | |   / /              \ \| |_________| | | |_________| |     ______
+ _________ |_______| |_|  /_/                \_|_____________| |_____________|___________
+
+ EPASS TOOL CREATOR PASSWORD LIST---------------------------- Programmer Aryia Behroziuan
+__________________________________________________________________________________________
+
+---About EPASS
+---In fact, this tool can create very strong list passwords, receive
+---information from users, and implement a mechanism with the received information to
+---make the list password very strong The algorithm of this tool is such that in the
+---personality password section you can see that it lists the passwords according to the personality of people.
+---personality of the people With this tool, you can create several types of
+---And I'm now 13 years old and a 13 year old programmer
+---Learn more about switches.
+
+ Probability of cracking with:
+   -a : Crack [####--------- 22%]
+   -b : Crack [###---------- 14%]
+   -c : Crack [###---------- 15%]
+   -d : Crack [####--------- 18%]
+   -e : Crack [######------- 20%]
+   -f : Crack [---------- Random%]
+   -g : Crack [####--------- 20%]
+   -h : Crack [####--------- 20%]
+   -i : Crack [#####-------- 22%]
+   -j : Crack [#######------ 30%]
+
+Select An Option From The Password Of The Following Lists
+-----------------------------------------------------------------------------
+------Password Lists
+------Password List -a : The Number Of Passwords Is Small But Useful
+------Password List -b : Powerful and more likely to influence
+------Password List -c : Very strong password list And powerful
+------Password List -d : Very strong and big
+------Password List -e : For completely numeric passwords
+------Password List -f : Your Create Password List
+------Password List -g : Pass List Select Range
+------Password List -h : pass List -c With the ability to choose suffering
+------Password List -i : Like Dash etc but stronger
+------Password List -j : All Password Lists EPASS
+------Help Page Epass--help
+------Exit From Epass -q
+-----------------------------------------------------------------------------
+ 
