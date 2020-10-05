@@ -1,0 +1,12 @@
+For Runing EPass For Linux Typing
+
+#sudo apt install wine
+
+
+#wine epass
+
+
+#sudo chmod +x epass
+
+
+#./epass
