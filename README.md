@@ -48,3 +48,15 @@ Password List -j : All Password Lists EPASS
 Help Page Epass--help
 Exit From Epass -q
  
+ # Crack%
+  Probability of cracking with:
+   -a : Crack [####--------- 22%]
+   -b : Crack [###---------- 14%]
+   -c : Crack [###---------- 15%]
+   -d : Crack [####--------- 18%]
+   -e : Crack [######------- 20%]
+   -f : Crack [---------- Random%]
+   -g : Crack [####--------- 20%]
+   -h : Crack [####--------- 20%]
+   -i : Crack [#####-------- 22%]
+   -j : Crack [#######------ 30%]
