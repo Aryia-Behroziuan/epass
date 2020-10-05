@@ -22,4 +22,10 @@ Or do the following steps
 
 Open the Linux terminal and enter this code
  
- step1
+ step1:>sudo apt install wine
+ 
+ From now on, open the terminal in the path of the executable file
+ 
+ step2:>wine epass
+ step3:>sudo chmod +x epass
+ step4:>./epass
