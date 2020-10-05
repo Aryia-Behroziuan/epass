@@ -10,5 +10,8 @@ Switches inside the tool can be used to create passwords for different lists
 In this tool, you have the ability to specify the length of the list yourself
 In this tool you can check the probability of cracking each password list
 And this tool provides the largest passwords
-# About Me
+# About Programmer
 I am a 13-year-old programmer working in all fields such as network and security engineering and artificial intelligence engineering.
+# Language Programming
+Python(100%
+#)
