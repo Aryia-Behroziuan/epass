@@ -47,5 +47,4 @@ Password List -i : Like Dash etc but stronger
 Password List -j : All Password Lists EPASS
 Help Page Epass--help
 Exit From Epass -q
------------------------------------------------------------------------------
  
