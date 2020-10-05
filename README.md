@@ -13,5 +13,13 @@ And this tool provides the largest passwords
 # About Programmer
 I am a 13-year-old programmer working in all fields such as network and security engineering and artificial intelligence engineering.
 # Language Programming
-Python(100%
-#)
+Python(100%)
+# Install epass For Windows
+You can use the executable file for use in Windows
+# Install For Linux
+For use in Linux, you can go to the Linux folder in the text file and read the description
+Or do the following steps
+
+Open the Linux terminal and enter this code
+ 
+ step1
