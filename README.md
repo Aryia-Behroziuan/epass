@@ -60,3 +60,5 @@ Exit From Epass -q
    -h : Crack [####--------- 20%]
    -i : Crack [#####-------- 22%]
    -j : Crack [#######------ 30%]
+   
+   $epass
